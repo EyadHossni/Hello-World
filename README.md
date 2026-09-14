@@ -3,6 +3,9 @@ A small Python project that renders a rotating globe directly in the terminal us
 
 The program converts a world map image into a character-based representation by sampling its pixels and comparing RGB color distances. The resulting map is then continuously shifted to simulate the globe rotating.
 
+# Demo
+<img width="320" height="320" alt="Hello World Demo" src="https://github.com/user-attachments/assets/5d7a044c-3196-47fd-8aab-5ac2aead3c5c"/>
+
 # Features
 ASCII-style globe rendering in the terminal
 Image-based map generation using Pillow
